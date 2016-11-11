@@ -23,7 +23,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jefo/<sss%= repo .git"
+    "url": "git+https://github.com/jefo/wbt-view.git"
   },
   "bugs": {
     "url": "https://github.com/jefo/wbt-view/issues"
