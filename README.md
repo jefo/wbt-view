@@ -9,10 +9,10 @@ Simple view implementation
 ## Example
 
 ```javascript
-import View from './view'; // don`t forget change location of view.js
+import Component from './Component'; // don`t forget change location of Component.js
 
-// implement your view class
-class ImageSlider extends View {
+// implement your component class
+class ImageSlider extends Component {
 
   /**
    * Put ui and events definitions here
